@@ -9,7 +9,7 @@
 
 - [ ] Decide on a public data set.\
       - https://www.api.gov.uk/gds/data-gov-uk \
-      - https://github.com/public-apis/public-apis
+      - https://github.com/public-apis/public-apis \
       - Could just use AdventureWorks, but if I remember correctly, the data is unrealistically clean.
 - [ ] Write code that retrieves the data.\
       - Use JavaScript / Google Apps Script if I want to write the data directly to a Google Sheet.\
