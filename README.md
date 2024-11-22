@@ -7,6 +7,8 @@
 
 ---
 
+# To Do:
+
 - [ ] Decide on a public data set.\
       - https://www.api.gov.uk/gds/data-gov-uk \
       - https://github.com/public-apis/public-apis \
@@ -16,3 +18,9 @@
       - Use Python if the data set is small enough that I may as well just paste it in.
 - [ ] Make dashboard in Google Sheets.\
       - Link here and/or add screenshot.
+
+---
+
+# Ideas:
+
+- https://data.police.uk/docs/method/stops-street - Data on stop and searches.
