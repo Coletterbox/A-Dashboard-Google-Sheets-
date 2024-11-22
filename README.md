@@ -15,7 +15,7 @@
       - Could just use AdventureWorks, but if I remember correctly, the data is unrealistically clean.
 - [ ] Write code that retrieves the data.\
       - Use JavaScript / Google Apps Script if I want to write the data directly to a Google Sheet.\
-      - Use Python if the data set is small enough that I may as well just paste it in.
+      - Use Python if I'd rather browse the data in Jupyter Notebook first.
 - [ ] Make dashboard in Google Sheets.\
       - Link here and/or add screenshot.
 
