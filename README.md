@@ -14,6 +14,5 @@
 - [ ] Write code that retrieves the data.\
       - Use JavaScript / Google Apps Script if I want to write the data directly to a Google Sheet.\
       - Use Python if the data set is small enough that I may as well just paste it in.
-- [ ] Make dashboard in Google Sheets.
+- [ ] Make dashboard in Google Sheets.\
       - Link here and/or add screenshot.
-
