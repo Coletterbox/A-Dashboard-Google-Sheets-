@@ -26,3 +26,4 @@
 
 - https://data.police.uk/docs/method/stops-street - Data on stop and searches.
 - https://www.kaggle.com/datasets/beekiran/sales-data-analysis - Basic, example sales data.
+- https://www.kaggle.com/datasets/divu2001/coffee-shop-sales-analysis
