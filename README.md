@@ -20,6 +20,8 @@
 - [ ] Make dashboard in Google Sheets.\
       - Link here and/or add screenshot.
 
+(Add moving averages.)
+
 ---
 
 # Ideas:
